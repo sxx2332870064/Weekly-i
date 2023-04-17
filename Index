@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="./weeklyI.css"/> 
+    <style>
+      div{
+        height:50%;
+        width:50%
+      }
+    </style>
+    <title>weekly I</title>
+</head>
+<body>
+    <h1 style="color:rgb(152, 152, 152)">Weekly I----------**_**</h1>
+   
+    
+
+    <div class="relative1">
+        <p style="color:rgb(114, 114, 114)">
+            Leading the discussion this week, I’ve got a great chance to really dive deep into the topics of User Generated Content, the monetization of IPs and posts, as well as the arguments around originality. 
+            </p>
+    </div>
+
+    <div class="relative2">
+        <p style="color:rgb(97, 97, 97)">
+            gests on redefining the policies towards copyrights and people’s respect on other’s originality, although it has been a fact that creators are creating things where other creators are using or are being supported. Especially with the current developments and innovations on AI, originality could be largely re-considered as these computer generated output are not “created” by the author, but rather “directed” to display the author’s thoughts.
+            </p>
+    </div>
+
+    <div class="relative3">
+        <p style="color:rgb(66, 66, 66)">
+            As a takeaway of the previous chapter, websites are working distinctively different from codes of commands or executions, but has in fact provided a welcoming and enriching environment for the developments among code creations and Community building.     
+        </p>
+    </div>
+
+    <div class="relative4">
+        <p style="color:rgb(31, 31, 31)">
+            When creating complex shapes or layered images, a thing that has stood out to me was the importance of having a clear logic in mind and keep things ordered, for the eventual outcome to be shown as disciplined; that ability of arranging different elements and order them is not only important for building up images using simple shapes, but also crucial when planning out and filling in the structures for larger digital mediums.     
+        </p>
+    </div>
+
+    
+    <br>
+    <br>
+    <br>
+    <address>
+        <span style="color:rgb(0, 0, 0)">Written by Alena</span><br>
+        <span style="color:rgb(98, 98, 98)">Box 00000, Disneyland</span><br>
+        <span style="color:rgb(110, 110, 110)">(づ￣3￣)づ╭❤ ~</span>
+        </address>
+</body>
+</html>
